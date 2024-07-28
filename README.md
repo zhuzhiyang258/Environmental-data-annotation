@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ### 第三步：配置好环境变量
-你需要配置好 `.env` 文件的环境变量，获取方式是通过豆包模型的官网进行获取。
+你需要配置好 `.env` 文件的环境变量，获取方式是通过豆包模型的官网进行获取(记得把example后缀去掉)。
 
 ### 第四步：运行脚本
 ```bash
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 3: Configure environment variables
-You need to configure the environment variables in the `.env` file. You can obtain these from the Doubao Model's official website.
+You need to configure the environment variables in the `.env` file. You can obtain these from the Doubao Model's official website(Remember to remove the Example suffix).
 
 ### Step 4: Run the script
 ```bash
