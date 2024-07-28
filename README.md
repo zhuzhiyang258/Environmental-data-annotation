@@ -8,10 +8,12 @@
 ### 第一步：创建一个虚拟环境
 ```bash
 conda create -n envproject python=3.10
+conda activate envproject
 ```
 
 ### 第二步：安装依赖包
 ```bash
+cd .\Environmental-data-annotation\
 pip install -r requirements.txt
 ```
 
@@ -36,10 +38,12 @@ This is a demo that uses large models to annotate environmental terms in the tex
 ### Step 1: Create a virtual environment
 ```bash
 conda create -n envproject python=3.10
+conda activate envproject
 ```
 
 ### Step 2: Install dependencies
 ```bash
+cd .\Environmental-data-annotation\
 pip install -r requirements.txt
 ```
 
