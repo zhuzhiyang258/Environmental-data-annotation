@@ -1,5 +1,3 @@
-markdown
-复制代码
 # [English](#english-version) | [中文](#中文版本)
 
 ## <a name="中文版本"></a>描述
@@ -45,7 +43,3 @@ bash
 python data_processor_untils.py
 Note
 This is an incomplete project, and there are some flaws in handling large volumes of data. It is only meant as an initial version for testing purposes.
-
-复制代码
-
-这样，通过点击顶部的链接，可以快速切换到不同语言的部分。
