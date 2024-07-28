@@ -13,7 +13,7 @@ conda activate envproject
 
 ### 第二步：安装依赖包
 ```bash
-cd .\Environmental-data-annotation\
+conda activate envproject
 pip install -r requirements.txt
 ```
 
