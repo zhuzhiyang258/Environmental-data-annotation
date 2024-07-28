@@ -12,6 +12,7 @@ conda create -n envproject python=3.10
 
 ### 第二步：安装依赖包
 ```bash
+conda activate envproject
 pip install -r requirements.txt
 ```
 
