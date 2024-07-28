@@ -1,5 +1,5 @@
 langchain
 openai
 pandas
-dotenv
+python-dotenv
 ipykernel
